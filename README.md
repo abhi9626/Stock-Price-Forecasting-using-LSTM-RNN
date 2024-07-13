@@ -1,4 +1,4 @@
-##Stock Market Prediction and Forecasting Using Stacked LSTM
+###Stock Market Prediction and Forecasting Using Stacked LSTM
 
 Overview
 This project aims to predict stock prices for Apple Inc. (AAPL) using a Stacked Long Short-Term Memory (LSTM) model. The approach involves several steps, from data collection to model evaluation and future predictions.
